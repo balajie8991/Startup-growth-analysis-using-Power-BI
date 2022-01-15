@@ -1,0 +1,57 @@
+.li1 {
+    width: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.div2 {
+    width: 70px;
+    background: blue;
+}
+
+.growth2 {
+    width: 100%;
+    background-image: url(img/growth.jpg);
+    background: green;
+}
+
+.card1 {
+    background: lightblue;
+    margin-left: 50px;
+    border-radius: 25px;
+    height: 600px;
+}
+
+.startuplogo {
+    width: 10px;
+    height: 10px;
+}
+
+.btn1 {
+    width: 300px;
+    height: 50px;
+    font-family: arial;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    color: white;
+}
+
+#growth {
+    background-image: url("img/logo.jpg");
+}
+
+.login {
+    text-align: center;
+    padding-left: 300px;
+}
+
+.login_btn {
+    margin-left: 200px;
+    width: 100px;
+}
+
+.navlinks {
+    margin-left: 300px;
+    border: 2px solid;
+}
